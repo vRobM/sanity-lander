@@ -7,7 +7,7 @@ export default {
       title: "Name",
       name: "name",
       type: "string",
-    }
+    },
     {
       name: 'email',
       title: 'Email',
